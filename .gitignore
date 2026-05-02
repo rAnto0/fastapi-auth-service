@@ -21,3 +21,5 @@ htmlcov/
 # IDE
 .idea/
 .vscode/
+
+certs/
